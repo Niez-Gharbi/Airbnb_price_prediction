@@ -1,7 +1,7 @@
 # RAMP starting kit on AirBnB price prediction
 
 
-_Authors: Badr Dammak, Syrine Cheriaa, Salma Salhi, Niez Gharbi_
+_Authors: Mohamed Badreddine Dammak, Syrine Cheriaa, Salma Salhi, Niez Gharbi_
 
 Airbnb is an online marketplace for arranging or offering lodging, primarily homestays, or tourism experiences. It emerged as a web platform where users can rent out their space to host travelers to save money while traveling, make money when hosting and share culture through local connection to the city.
 
