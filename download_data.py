@@ -8,8 +8,6 @@ except ImportError:
     from urllib import urlretrieve
 
 
-URLBASE = 'https://ndownloader.figshare.com/files/{}'
-URLS = ['18473234', '18475136', '18474977']
 DATA = ['AirBnB_train.csv.zip', 'AirBnB_test.csv.zip']
 
 train_url = 'https://www.dropbox.com/s/pftm879cilwq9hz/train.csv?dl=0'
