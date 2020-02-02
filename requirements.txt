@@ -7,4 +7,5 @@ seaborn
 os
 jupyter
 category_encoders
-google_drive_downloader
+googledrivedownloader
+chardet
