@@ -4,5 +4,7 @@ pandas
 scikit-learn>=0.20
 matplotlib
 seaborn
+os
 jupyter
 category_encoders
+google_drive_downloader
